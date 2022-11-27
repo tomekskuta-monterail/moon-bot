@@ -4,8 +4,13 @@
   "description": "Daily moon phase information to be prepared for the whole day. Dorime",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "@tomekskuta-monterail, @mnieznaj",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.12.2",
+    "dotenv": "^16.0.3"
+  }
 }
