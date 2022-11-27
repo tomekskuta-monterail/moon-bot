@@ -1,0 +1,11 @@
+{
+  "name": "moon-bot",
+  "version": "1.0.0",
+  "description": "Daily moon phase information to be prepared for the whole day. Dorime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@tomekskuta-monterail, @mnieznaj",
+  "license": "ISC"
+}
